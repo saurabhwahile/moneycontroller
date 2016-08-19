@@ -3,6 +3,7 @@ from google import search
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 import sqlite3
 
 class CACHE:
@@ -82,16 +83,22 @@ class HTTP:
     table = page.find('div', {"class": "mainCont port_hold "}).table
     headers = [header.string for header in table.tr.find_all('th')]
     headers[headers.index(None)] = 'Value'
+    headers = [header.strip() for header in headers]
     results = [[cell.string for cell in row.find_all('td')] for row in table.find_all('tr')]
     results = results[1:]
     
     df = pd.DataFrame(data=results)
     df = df.rename(columns={i:col_name for i, col_name in enumerate(headers)})
+    
+    df['Qty'] = df['Qty'].apply(lambda x: np.float64(x.replace(',', '')))
+    df['Value'] = df['Value'].apply(lambda x: np.float64(x))
+    df['%'] = df['%'].apply(lambda x: float(x))
+    
     return df
 
 if __name__=='__main__':
   http = HTTP()
   df = http.get_fund_portfolio('HDFC TOP 200')
-  print df.describe()
+  df2 = http.get_fund_portfolio('HDFC Prudence Growth')
+  print df2
   http.close()
-  
