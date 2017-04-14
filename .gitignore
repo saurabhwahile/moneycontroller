@@ -1,2 +1,5 @@
 moneycontrol_cache.db
 .google-cookie
+*.pyc
+__pycache__/
+console.py

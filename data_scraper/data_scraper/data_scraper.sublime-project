@@ -1,0 +1,21 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"C:\\bin\\Anaconda3\\envs\\tensorflow\\python.exe\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "C:\\projects\\moneycontroller\\data_scraper"
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "C:\\bin\\Anaconda3\\envs\\tensorflow\\python.exe"
+	}
+}

@@ -1,0 +1,146 @@
+
+						    
+			Moneycontrol NewsA Chennai court on Thursday dismissed the bail plea of Stayzilla Founder and CEO Yogi Vasupal, who has been languishing in Puzhal Central Prison in the city, since last week.The bail was denied on grounds that the Chennai police is yet to get custody of Vasupal, who is currently behind judicial custody, said a report here.
+	
+		var width = window.innerWidth || document.documentElement.clientWidth;
+		adKey = "Moneycontrol_Mobile_WAP/MC_WAP_News/MC_WAP_News_Internal_300x250_Middle";
+		if (width >= 768 && adKey.indexOf("Moneycontrol") != -1 && adKey.indexOf("Moneycontrol_Mobile_WAP") < 0) {
+			googletag.cmd.push(function() { googletag.display("Moneycontrol_Mobile_WAP/MC_WAP_News/MC_WAP_News_Internal_300x250_Middle") });
+		}
+
+		if (width 
+Vasupal, who had shut Chennai-based Stayzilla last month, was arrested on complaint by a local media agency Jigsaw Advertising over pending dues of Rs 1.7 crore.The issue became public when an emergency email by Stayzilla co-founder Sachit Singhi to investors Nexus Venture Partners and Avnish Bajaj of Matrix Partners asking for 'help' was made public on social media.More worried about other ‘cellmates’Meanwhile, over 440 startup founders (as of last update) in the country have written an open letter to Union Home Minister Rajnath Singh requesting a fair investigation into the Stayzilla issue.People close to Vasupal told Moneycontrol that he is more worried about other cellmates who are facing frivolous charges and are behind bars but don't have help or support like he has received.The letter sent to the Union Home Minister is supported by Paytm CEO Vijay Shekhar Sharma, Ola CEO Bhavish Aggarwal, former Infosys Chief Financial Officer Mohandas Pai, among others. Trade associations such as Assocham, CII, Ficci, Nasscom and IAMAI have supported the cause.In a blog, before his arrest, Vasupal pointed out the deficiencies in the system when a company tried to wind down operations in India. About 90 percent startups fail in the country; however, winding down is a painful procedure which can take up to three years.“There is no use of having jumped so many hoops to be a private limited company thinking that it will limit individual liability, when people at senior levels in police don’t even understand the difference…or can pretend not to know it,” Vasupal had said.
+					
+		
+	
+		var width = window.innerWidth || document.documentElement.clientWidth;
+		adKey = "Moneycontrol_Mobile_WAP/MC_WAP_News/MC_WAP_News_Internal_300x250_Middle";
+		if (width >= 768 && adKey.indexOf("Moneycontrol") != -1 && adKey.indexOf("Moneycontrol_Mobile_WAP") < 0) {
+			googletag.cmd.push(function() { googletag.display("Moneycontrol_Mobile_WAP/MC_WAP_News/MC_WAP_News_Internal_300x250_Middle") });
+		}
+
+		if (width 
+
+		
+						
+				tags
+						    
+				#Chennai
+						    
+				#Jigsaw Advertising
+						    
+				#Legal
+						    
+				#Sachit Singhi
+						    
+				#Stayzilla
+						    
+				#Yogi Vasupal
+							
+			
+									
+				Related news
+			
+			
+												
+					
+						
+						
+							 
+					Business
+					 SC reserves order on pleas against liquor ban along national, state highways
+										Mar 30, 2017 09:33 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 SC order puts brakes on new BS III vehicles
+										Mar 29, 2017 02:58 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 Principal Sessions Court rejects bail plea for Stayzilla founder
+										Mar 28, 2017 10:12 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 BS-III exit: SC to pronounce verdict on March 29; SIAM urges for gradual shift
+										Mar 28, 2017 08:03 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 SC to hear tomorrow pleas against liquor vend ban on highways
+										Mar 28, 2017 07:07 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 Stayzilla's January to May 2016 dues stand at Rs 1.72 crore: Jigsaw Advertising
+										Mar 27, 2017 10:18 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 HUL drags Amul to court for 'misleading' ice-cream advertisement
+										Mar 24, 2017 07:04 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 Startup woes: Stayzilla CEO to remain behind bars, court denies bail
+										Mar 23, 2017 04:16 PM
+					
+					
+				
+																
+					
+						
+						
+							 
+					Business
+					 #HelpYogi: 73 startup CEOs pen letter to govt seeking fair probe for Stayzilla founder
+										Mar 20, 2017 08:46 PM
+					
+					
+				
+																			
+					
+	
