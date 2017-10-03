@@ -20,12 +20,8 @@ class MCVolumeShockers(scrapy.Spider):
                 "url": stock.xpath('td/span/a/@href').extract()[0],
                 "avg_vol": stock.xpath('td[6]/text()').extract()[0]
             })
-            yield Request(url=stock.xpath('td/span/a/@href').extract()[0], callback=self.parse_stock)
         yield {
             "stocks": stocks,
             "timestamp": datetime.datetime.now().isoformat(),
             "type": VOLUME_SHOCKERS
         }
-
-    def parse_stock(self, response):
-        yield parse_stock(response)

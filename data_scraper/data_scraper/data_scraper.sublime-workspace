@@ -1,0 +1,910 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filenames\tstatement"
+			],
+			[
+				"sigm",
+				"sigma_data_file\tstatement"
+			],
+			[
+				"sig",
+				"sigma_data_file\tstatement"
+			],
+			[
+				"g",
+				"g_observed_mu_file\tstatement"
+			],
+			[
+				"gobserved",
+				"gobserved_mu"
+			],
+			[
+				"get",
+				"get_keyring\tfunction"
+			],
+			[
+				"ES_",
+				"ES_MCINDEX_URL\tstatement"
+			],
+			[
+				"com",
+				"comments\tstatement"
+			],
+			[
+				"Ar",
+				"ArgumentParser\tclass"
+			],
+			[
+				"ce",
+				"celery\tmodule"
+			],
+			[
+				"cele",
+				"celery_pubsub\tmodule"
+			],
+			[
+				"Redis",
+				"RedisQueue\tclass"
+			],
+			[
+				"comm",
+				"comments_offset\tstatement"
+			],
+			[
+				"commnets",
+				"comments_stock_id\tstatement"
+			],
+			[
+				"comments_",
+				"comments_json\tstatement"
+			],
+			[
+				"comments",
+				"comments_bundle\tparam"
+			],
+			[
+				"cal",
+				"callback\tparam"
+			],
+			[
+				"parse",
+				"parse_comments\tfunction"
+			],
+			[
+				"call",
+				"callback\tparam"
+			],
+			[
+				"star",
+				"start_url\tstatement"
+			],
+			[
+				"term",
+				"terminate\tfunction"
+			],
+			[
+				"cr",
+				"CREATE_NEW_CONSOLE\tinstance"
+			],
+			[
+				"rea",
+				"readfp\tfunction"
+			],
+			[
+				"con",
+				"configparser\tmodule"
+			],
+			[
+				"P",
+				"Popen\tclass"
+			],
+			[
+				"C",
+				"CREATE_NEW_CONSOLE\tinstance"
+			],
+			[
+				"sub",
+				"subprocess\tmodule"
+			],
+			[
+				"float",
+				"float32\tstatement"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"__",
+				"__name__\tinstance"
+			],
+			[
+				"logg",
+				"logging\tmodule"
+			],
+			[
+				"dum",
+				"dumps\tfunction"
+			],
+			[
+				"gr",
+				"get_google_finance_intraday"
+			],
+			[
+				"inde",
+				"identifiers\tstatement"
+			],
+			[
+				"V",
+				"VOLUME_SHOCKERS\tstatement"
+			],
+			[
+				"ES",
+				"ES_INDEX_URL\tstatement"
+			],
+			[
+				"ELAS",
+				"ELASTICSEARCH_PORT\tstatement"
+			],
+			[
+				"pase",
+				"parse_stock\tfunction"
+			],
+			[
+				"Item",
+				"Item"
+			],
+			[
+				"start",
+				"start_urls\tstatement"
+			],
+			[
+				"c",
+				"contrib"
+			],
+			[
+				"_",
+				"_get_page"
+			],
+			[
+				"consol",
+				"console.log()"
+			],
+			[
+				"sel",
+				"sleep_duration"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"_get",
+				"_get_hex"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"clo",
+				"clock_map"
+			],
+			[
+				"cl",
+				"clock_map"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"write",
+				"write_led_data"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"cw",
+				"cwm\tReact: componentWillMount: fn() { ... }"
+			],
+			[
+				"re",
+				"ren\tReact: render: fn() { return ... }"
+			],
+			[
+				"ob",
+				"Object"
+			],
+			[
+				"height",
+				"height\tStyle CSS"
+			],
+			[
+				"getElem",
+				"getElementById(${0:id})\tElement"
+			],
+			[
+				"HO",
+				"hover"
+			],
+			[
+				"set",
+				"settings_file"
+			],
+			[
+				"settings_te",
+				"settings_template"
+			],
+			[
+				"settings_temp",
+				"settings_template_file"
+			],
+			[
+				"se",
+				"settings_template_file"
+			],
+			[
+				"T",
+				"TemplateIgnoreInvalid"
+			],
+			[
+				"bootstrap",
+				"bootstrapTokenFieldCSS"
+			],
+			[
+				"def",
+				"defaultView\tDocument"
+			],
+			[
+				"toJ",
+				"toJSON()\tDate"
+			],
+			[
+				"fe",
+				"fetch"
+			],
+			[
+				"channel",
+				"channel"
+			],
+			[
+				"Channels",
+				"channels"
+			],
+			[
+				"conso",
+				"console"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"getEle",
+				"getElementById(${0:id})\tElement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/projects/moneycontroller/definitions.py",
+			"settings":
+			{
+				"buffer_size": 49,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/projects/moneycontroller/start.py",
+			"settings":
+			{
+				"buffer_size": 247,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spiders/MCVolumeShockers.py",
+			"settings":
+			{
+				"buffer_size": 908,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "parsers/MCStock.py",
+			"settings":
+			{
+				"buffer_size": 2860,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "isnta",
+		"selected_items":
+		[
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacla",
+				"Package Control: List Packages"
+			],
+			[
+				"env",
+				"Virtualenv: Activate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disbale",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"enable s",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"disable ",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"virtu",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtua",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtual",
+				"Virtualenv: Add directory"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"Enable Autorefresh"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"sublime.cache_path()",
+			"sublime.cache_path(*)",
+			"exit()",
+			"p = ''",
+			":2"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/moneycontroller/data_scraper",
+		"/C/projects/moneycontroller/data_scraper/data_scraper",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/parsers",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/spiders"
+	],
+	"file_history":
+	[
+		"/C/projects/moneycontroller/data_scraper/data_scraper/spiders/testspider.py",
+		"/C/projects/moneycontroller/tools/alert_if_stock_below_support.py",
+		"/C/projects/moneycontroller/start_scripts/airflow_on_bash.bat",
+		"/C/projects/moneycontroller/data_scraper/scrapy.cfg",
+		"/C/projects/moneycontroller/tools/es.py",
+		"/C/projects/moneycontroller/start.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/spiders/MCStock.py",
+		"/C/Users/Saurabh/Desktop/New folder/plotterchi2.py",
+		"/C/Users/Saurabh/Desktop/New folder/plotterHcurve.py",
+		"/C/Users/Saurabh/Desktop/New folder/real_calc.py",
+		"/C/Users/Saurabh/Desktop/sad",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/spiders/MCVolumeShockers.py",
+		"/C/projects/moneycontroller/console.py",
+		"/C/Users/Saurabh/Desktop/ConEmu.xml",
+		"/C/cygwin64/home/Saurabh/.ssh/id_rsa",
+		"//Tatiana/d/Backup/Keys/coupuncher.com/private_key.ssh",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/definitions.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/pipelines.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/spiders/MCNews.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/parsers/MCStock.py",
+		"//Tatiana/d/Backup/Keys/coupuncher.com/public_key.ssh",
+		"/C/bin/Anaconda3/envs/tensorflow/Lib/site-packages/airflow/bin/airflow",
+		"/C/projects/moneycontroller/definitions.py",
+		"/C/projects/moneycontroller/tools/google_finance.py",
+		"/C/Users/Saurabh/Desktop/alert_stock.py",
+		"/C/Users/Saurabh/Desktop/test.py",
+		"/C/Users/Saurabh/Desktop/scraper/spider.py",
+		"/C/Users/Saurabh/Desktop/hebb.py",
+		"/C/projects/coupuncher/api/Coupon/models.py",
+		"/C/Users/Saurabh/Downloads/Giant3.test",
+		"/C/Users/Saurabh/Desktop/sub.py",
+		"/C/Users/Saurabh/Desktop/pub.py",
+		"/C/projects/moneycontroller/tools/redispubsub.py",
+		"/Z/Programming/Network Administration/Programs/dNBM/app2.js",
+		"/Z/Programming/Network Administration/Programs/dNBM/app1.js",
+		"/C/bin/Redis-x64-3.2.100/redis.windows.conf",
+		"/C/Users/Saurabh/Desktop/Tweettrends/tweettrends.conf",
+		"/C/Users/Saurabh/Desktop/Tweettrends/TweetHandler.py",
+		"/C/Users/Saurabh/Desktop/Tweettrends/TweetSentimentAnalysis.py",
+		"/C/Users/Saurabh/Desktop/Tweettrends/auth.txt",
+		"/C/Users/Saurabh/Desktop/Tweettrends/TweetPersister.py",
+		"/C/Users/Saurabh/Desktop/Tweettrends/start_services.py",
+		"/C/Users/Saurabh/Desktop/Tweettrends/TweetListener.py",
+		"/C/Users/Saurabh/Desktop/Tweettrends/ElasticSearchServices.py",
+		"/C/Users/Saurabh/Desktop/Tweettrends/application.py",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/sentiment_analysis.py",
+		"/C/bin/zookeeper-3.4.10/conf/zoo.cfg",
+		"/C/bin/kafka_2.11-0.10.2.0/bin/windows/kafka-run-class.bat",
+		"/C/bin/kafka_2.11-0.10.2.0/bin/windows/kafka-server-start.bat",
+		"/C/Users/Saurabh/Desktop/Tweettrends/start_services.sh",
+		"/C/Users/Saurabh/Desktop/Tweettrends/.gitignore",
+		"/C/bin/zookeeper-3.4.10/conf/zoo_sample.cfg",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/configurations.txt",
+		"/C/Users/Saurabh/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Saurabh/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Saurabh/AppData/Roaming/Sublime Text 3/Packages/User/Virtualenv.sublime-settings",
+		"/C/Users/Saurabh/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Saurabh/Desktop/site.html",
+		"/C/Users/Saurabh/Desktop/site.css",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/TweetListener.py",
+		"/C/projects/coupuncher/views/portal/index.jsx",
+		"/C/projects/moneycontroller/.gitignore",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/settings.py",
+		"/Z/Programming/Python/Programs/moneycontroller/data.csv",
+		"/Z/Programming/Python/Programs/moneycontroller/funds.csv",
+		"/C/projects/moneycontroller/README.md",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/application.py",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/ElasticSearchServices.py",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/templates/index.html",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/EmoSense.py",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/TweetHandler.py",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/mylogs.out",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/news/NewsListener.py",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/news/NewsHandler.py",
+		"/C/Users/Saurabh/Desktop/EmoSense-Final/news/fetch.py",
+		"/C/projects/coupuncher/views/account/index.handlebars",
+		"/C/projects/coupuncher/views/account/index.jsx",
+		"/C/projects/stocks_rnn/config.py",
+		"/C/projects/stocks_rnn/train_stock_lstm.py",
+		"/C/Users/Saurabh/Downloads/table.csv",
+		"/C/projects/coupuncher/proxy.js",
+		"/C/projects/coupuncher/gulpfile.js",
+		"/C/projects/text/my-app/src/index.js",
+		"/C/projects/text/my-app/src/App.js",
+		"/C/projects/text/my-app/src/App.test.js",
+		"/C/projects/pidiqip/views/index.handlebars",
+		"/C/projects/pidiqip/gulpfile.js",
+		"/C/projects/pidiqip/views/index.scss",
+		"/C/projects/pidiqip/views/index.jsx",
+		"/Z/Programming/Web Designing/Programs/coupuncher/views/index.handlebars",
+		"/C/projects/pidiqip/gulpfile_deploy.js",
+		"/Z/Programming/Web Designing/Programs/coupuncher/proxy.js",
+		"/Z/Programming/Web Designing/Programs/coupuncher/package.json",
+		"/Z/Programming/Web Designing/Programs/coupuncher/gulpfile.js",
+		"/Z/Programming/Web Designing/Programs/coupuncher/bower.json",
+		"/Z/Programming/Web Designing/Programs/coupuncher/.bowerrc",
+		"/Z/Programming/Web Designing/Programs/coupuncher/.gitignore",
+		"/Z/Programming/Web Designing/Programs/coupuncher/gulpfile_deploy.js",
+		"/Z/Programming/Web Designing/Programs/coupuncher/views/search.handlebars",
+		"/Z/Programming/Web Designing/Programs/coupuncher/views/index.jsx",
+		"/Z/Programming/Web Designing/Programs/coupuncher/views/search.jsx",
+		"/C/projects/moneycontroller/tools/__init__.py",
+		"/C/Users/Saurabh/AppData/Roaming/Sublime Text 3/Packages/Python/Completion Rules.tmPreferences",
+		"/C/Users/Saurabh/AppData/Local/Sublime Text 3/Cache/Python/Completion Rules.tmPreferences.cache",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/tools/google_finance.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/tools/get_realtime_data.py",
+		"/C/Users/Saurabh/Desktop/get_intraday_data.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/utils.py",
+		"/C/projects/RedditScraper/dirty_scraper.py",
+		"/C/Users/Saurabh/Desktop/reddit_search.py",
+		"/C/Users/Saurabh/Desktop/x/spider.py",
+		"/C/Users/Saurabh/Desktop/elk.py",
+		"/C/projects/RedditScraper/reddit_scraper.py",
+		"/C/projects/RedditScraper/dirty_reddit_miner.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/__init__.py",
+		"/C/Users/Saurabh/Desktop/TATAMOTORS.html",
+		"/C/projects/moneycontroller/extract_ltp.py",
+		"/C/Program Files/MongoDB/mongo.log.2017-03-20T16-53-51",
+		"/C/Program Files/MongoDB/mongo.config",
+		"/C/Users/Saurabh/Desktop/mongo.config",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/items.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/spiders/parsers/MCStock.py",
+		"/C/projects/moneycontroller/data_scraper/data_scraper/parsers/__init__.py",
+		"/C/projects/moneycontroller/samples/dividend_scraper.py",
+		"/C/projects/moneycontroller/moneycontrol.py",
+		"/C/projects/moneycontroller/samples/get_dividend_stocks.py",
+		"/C/projects/moneycontroller/samples/get_fund_portfolio.py",
+		"/C/projects/moneycontroller/spider.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			".read()",
+			"print",
+			"f3",
+			"f2",
+			"f1",
+			"gobserved_mu_file",
+			"f0",
+			"print",
+			"Auto",
+			"AutoHot",
+			" \"",
+			"\":",
+			")\n",
+			"print",
+			"exce",
+			"print",
+			"kafka",
+			"virtualen",
+			"5",
+			"print",
+			"pdr_data",
+			"seq2seq",
+			"rnn",
+			"Bas",
+			"self.",
+			"futures",
+			"getwith",
+			"\"\n",
+			"click",
+			"COM12",
+			"card",
+			"card-",
+			"class",
+			"darker",
+			"palette",
+			"print",
+			"eventQuery",
+			"Event",
+			"class",
+			"queryObject",
+			"class",
+			"academicUpdate",
+			"AcademicUpdate",
+			"message",
+			"eanMessage",
+			"DeanMessage",
+			"compressedImage",
+			"imageFile",
+			" imageFile",
+			"newPPPOE",
+			"oldPPPOE",
+			":\n",
+			"$",
+			"(){\n",
+			"(\n",
+			"class",
+			"chec",
+			"class",
+			"}\n",
+			"class",
+			"});\n",
+			"class",
+			"loginUser",
+			"authUser",
+			"AuthUser",
+			"class",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"className",
+			"loginUser",
+			"LoginUser",
+			"className"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/projects/moneycontroller/definitions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/projects/moneycontroller/start.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spiders/MCVolumeShockers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								908,
+								908
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "parsers/MCStock.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2856,
+								2856
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 352.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python3.5-tensorflow.sublime-build",
+	"project": "data_scraper.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

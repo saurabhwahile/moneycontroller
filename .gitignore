@@ -1,5 +1,6 @@
 moneycontrol_cache.db
 .google-cookie
+.vscode
 *.pyc
 __pycache__/
 console.py

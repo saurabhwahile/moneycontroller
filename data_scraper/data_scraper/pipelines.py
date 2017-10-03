@@ -16,11 +16,5 @@ class ElasticSearchPipeline(object):
     self.es_session = requests.Session()
 
   def process_item(self, item, spider):
-    if(item['type']==STOCK):
-      key = item['nse'] if item['nse'] not in ['', None, ' '] else item['bse']
-      self.es_session.put(''.join([ES_STOCK_INDEX_URL, key]), data=json.dumps(item))
-    if(item['type']==VOLUME_SHOCKERS):
-      self.es_session.put(''.join([ES_MCVOLUMESHOCKER_URL, item['timestamp']]), data=json.dumps(item))
-    if(item['type']==NEWS):
-      self.es_session.put(''.join([ES_MCNEWS_URL, item['timestamp']]), data=json.dumps(item))
+    self.es_session.put(''.join([ES_MCINDEX_URL, item['type'], '/', item['timestamp']]), data=json.dumps(item))
     return item
